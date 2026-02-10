@@ -1,7 +1,7 @@
 Robotics project implementing IR communication through MSP430FR6989 microcontrollers
 # Features
--> IR controlled rover 
--> Controller PCB
+-> IR controlled rover\
+-> Controller PCB\
 -> Stepper Motor Hammer
 
 
